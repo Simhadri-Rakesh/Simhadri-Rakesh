@@ -1,5 +1,4 @@
  # 💫 About Me:
-
 👋 Hi, I'm **Simhadri Rakesh**<br><br>
 🎓 I'm currently pursuing MCA at Lovely Professional University<br><br>
 
