@@ -1,6 +1,27 @@
  # 💫 About Me:
-# 👋 Hi, I'm Simhadri Rakesh<br><br>🎓 I'm currently pursuing MCA at Lovely Professional University<br><br>👨‍💻 I'm currently working on<br>Data Analytics & Business Intelligence projects<br><br>🤝 I'm looking to collaborate on<br>Data Analytics, SQL & Power BI projects<br><br>💡 I'm looking for help with<br>Advanced SQL, Python & Machine Learning<br><br>🌱 I'm currently learning<br>Java, Data Structures & Algorithms (DSA), Python, Pandas, NumPy, Power BI, DAX & Machine Learning<br><br>💬 Ask me about<br>SQL | Excel | Power BI | Python | Data Visualization<br><br>🎯 My goal<br>To become a skilled Data Analyst and solve real-world problems using data 📊
+<sub>
+👋 Hi, I'm **Simhadri Rakesh**<br><br>
 
+🎓 I'm currently pursuing MCA at Lovely Professional University<br><br>
+
+👨‍💻 I'm currently working on<br>
+Data Analytics & Business Intelligence projects<br><br>
+
+🤝 I'm looking to collaborate on<br>
+Data Analytics, SQL & Power BI projects<br><br>
+
+💡 I'm looking for help with<br>
+Advanced SQL, Python & Machine Learning<br><br>
+
+🌱 I'm currently learning<br>
+Java, Data Structures & Algorithms (DSA), Python, Pandas, NumPy, Power BI, DAX & Machine Learning<br><br>
+
+💬 Ask me about<br>
+SQL | Excel | Power BI | Python | Data Visualization<br><br>
+
+🎯 My goal<br>
+To become a skilled Data Analyst and solve real-world problems using data 📊
+</sub>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simhadrirakesh016/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simhadrirakesh0089@gmail.com) 
