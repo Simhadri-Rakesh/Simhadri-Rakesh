@@ -1,35 +1,169 @@
- # 💫 About Me:
-👋 Hi, I'm **Simhadri Rakesh**<br><br>
-🎓 I'm currently pursuing MCA at Lovely Professional University<br><br>
+ # 👋 Hi, I'm Simhadri Rakesh
 
-👨‍💻 I'm currently working on<br>
-Data Analytics & Business Intelligence projects<br><br>
+<div align="center">
 
-🤝 I'm looking to collaborate on<br>
-Data Analytics, SQL & Power BI projects<br><br>
+### 🎓 MCA Student | 📊 Aspiring Data Analyst
 
-💡 I'm looking for help with<br>
-Advanced SQL, Python & Machine Learning<br><br>
+Passionate about transforming data into meaningful insights and solving real-world problems.
 
-🌱 I'm currently learning<br>
-Java, Data Structures & Algorithms (DSA), Python, Pandas, NumPy, Power BI, DAX & Machine Learning<br><br>
-
-💬 Ask me about<br>
-SQL | Excel | Power BI | Python | Data Visualization<br><br>
-
-🎯 My goal<br>
-To become a skilled Data Analyst and solve real-world problems using data 📊
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simhadrirakesh016/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simhadrirakesh0089@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Simhadri-Rakesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Simhadri-Rakesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Simhadri-Rakesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Simhadri-Rakesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="65%">
+
+🎓 I'm currently pursuing **MCA at Lovely Professional University**
+
+👨‍💻 I'm currently working on  
+**Data Analytics & Business Intelligence projects**
+
+🤝 I'm looking to collaborate on  
+**Data Analytics, SQL & Power BI projects**
+
+💡 I'm looking for help with  
+**Advanced SQL, Python & Machine Learning**
+
+🌱 I'm currently learning  
+**Java, Data Structures & Algorithms (DSA), Python, Pandas, NumPy, Power BI, DAX & Machine Learning**
+
+💬 Ask me about  
+**SQL | Excel | Power BI | Python | Data Visualization**
+
+🎯 My goal  
+**To become a skilled Data Analyst and solve real-world problems using data 📊**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="YOUR_IMAGE_URL" width="250px">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Database
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+
+</p>
+
+### 📊 Data Analytics & Visualization
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+
+</p>
+
+### 🤖 Machine Learning & Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Simhadri-Rakesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simhadri-Rakesh&theme=tokyonight&hide_border=true" height="180">
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simhadri-Rakesh&layout=compact&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Simhadri-Rakesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simhadri-Rakesh&theme=tokyo-night&hide_border=true">
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/simhadrirakesh016/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:simhadrirakesh0089@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's connect, collaborate and build something meaningful with data! 📊**
+
+</div>
