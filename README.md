@@ -10,41 +10,49 @@ Passionate about transforming data into meaningful insights and solving real-wor
 
 ---
 
-## 💫 About Me
+ # 💫 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td width="65%">
 
-🎓 I'm currently pursuing **MCA at Lovely Professional University**
+<td width="65%" valign="top">
+
+🎓 I'm currently pursuing **MCA at Lovely Professional University**  
+<br>
 
 👨‍💻 I'm currently working on  
-**Data Analytics & Business Intelligence projects**
+**Data Analytics & Business Intelligence projects**  
+<br>
 
 🤝 I'm looking to collaborate on  
-**Data Analytics, SQL & Power BI projects**
+**Data Analytics, SQL & Power BI projects**  
+<br>
 
 💡 I'm looking for help with  
-**Advanced SQL, Python & Machine Learning**
+**Advanced SQL, Python & Machine Learning**  
+<br>
 
 🌱 I'm currently learning  
-**Java, Data Structures & Algorithms (DSA), Python, Pandas, NumPy, Power BI, DAX & Machine Learning**
+**Java, Data Structures & Algorithms (DSA), Python, Pandas, NumPy, Power BI, DAX & Machine Learning**  
+<br>
 
 💬 Ask me about  
-**SQL | Excel | Power BI | Python | Data Visualization**
+**SQL | Excel | Power BI | Python | Data Visualization**  
+<br>
 
 🎯 My goal  
 **To become a skilled Data Analyst and solve real-world problems using data 📊**
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="YOUR_IMAGE_URL" width="250px">
+<img src="https://github.com/Simhadri-Rakesh.png" width="250" alt="Simhadri Rakesh">
 
 </td>
+
 </tr>
 </table>
 
